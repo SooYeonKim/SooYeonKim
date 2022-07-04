@@ -13,6 +13,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&style=flat-square&logo=MariaDB&logoColor=white)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=SooYeonKim&count_private=true&show_icons=true" height=150px />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooYeonKim&layout=compact" height=150px />
+<img src="https://github-readme-stats.vercel.app/api?username=SooYeonKim&theme=dracula&count_private=true&show_icons=true" height=150px />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooYeonKim&theme=dracula&layout=compact" height=150px />
 </p>
